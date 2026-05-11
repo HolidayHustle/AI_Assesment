@@ -1,0 +1,6 @@
+*.h5
+NLP Task/data/glove.6B.100d.txt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
